@@ -1,0 +1,21 @@
+.parent-div {
+  margin: 5vw 0vw 0vw 10vw;
+}
+.parent-div button {
+  margin-left: 2vw;
+  color: white;
+  background-color: rgb(3, 3, 37);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(238, 93, 93);
+  width: 5%;
+  height: 2vw;
+}
+.parent-div li {
+  margin-top: 2vw;
+}
+
+.parent-div input {
+  height: 2vw;
+  width: 15%;
+  padding-left: 20px;
+} 
