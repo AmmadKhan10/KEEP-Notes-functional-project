@@ -1,13 +1,14 @@
 
 import './App.css'
 import UpdateArrayusingstate from './Components/UpdateArrayusingstate'
-import DeleteItemsfromArrayusingstate from './Components/DeleteItemsfromArrayusingstate'
+import Createtable from './Components/Tableusingstate'
 
 function App() {
 
   return (
     <>
      <UpdateArrayusingstate/>
+     <Createtable/>
     </>
   )
 }
